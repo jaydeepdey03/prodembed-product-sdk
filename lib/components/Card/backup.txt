@@ -1,0 +1,13 @@
+ {ethereumAccount === "" ? (
+          <button onClick={connectWallet} style={styles.dialogButton}>
+            Connect Wallet
+          </button>
+        ) : (
+          <>
+            <h2 style={styles.dialogTitle}>Product Details</h2>
+            <p style={styles.dialogContent}>
+              This is where you would display more information about the
+              product.
+            </p>
+          </>
+        )}
