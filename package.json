@@ -1,6 +1,6 @@
 {
-  "name": "prodembed-product-sdk",
-  "version": "0.0.1",
+  "name": "prodembed-productitem-sdk",
+  "version": "0.0.0",
   "type": "module",
   "main": "dist/assets/main.js",
   "types": "dist/main.d.ts",
